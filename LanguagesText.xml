@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Languages>
+	<English>
+		<Settings>Settigs</Settings>
+		<Language>language</Language>
+		<CurrentLanguage>Currently Selected language is English</CurrentLanguage>
+		<Back>Back</Back>
+	</English>
+	<Hindi>
+		<Settings>सेटिंग्स</Settings>
+		<Language>भाषा</Language>
+		<CurrentLanguage>वर्तमान में चयनित भाषा हिन्दी है</CurrentLanguage>
+		<Back>वापस</Back>
+	</Hindi>
+	<Gujarati>
+		<Settings>સુયોજનો</Settings>
+		<Language>ભાષા</Language>
+		<CurrentLanguage>હાલમાં પસંદ કરેલી ભાષા ગુજરાતી છે</CurrentLanguage>
+		<Back>પાછળ</Back>
+	</Gujarati>
+	<German>
+		<Settings>Einstellungen</Settings>
+		<Language>Sprache</Language>
+		<CurrentLanguage>Derzeit ausgewählte Sprache ist deutsch</CurrentLanguage>
+		<Back>Zurück</Back>
+	</German>
+	<Polish>
+		<Settings>Ustawienia</Settings>
+		<Language>Język</Language>
+		<CurrentLanguage>Obecnie wybranym językiem jest polski</CurrentLanguage>
+		<Back>Wstecz</Back>
+	</Polish>
+	<Russian>
+		<Settings>Параметры</Settings>
+		<Language>Язык</Language>
+		<CurrentLanguage>В настоящее время выбран русский язык</CurrentLanguage>
+		<Back>вернуться</Back>
+	</Russian>
+</Languages>
